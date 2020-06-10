@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='true'>
+    <pages>
+        <page name='Variables'/>
+        <page name='String interpolation'/>
+        <page name='Collections'/>
+        <page name='Conditional statements'/>
+        <page name='Loops'/>
+        <page name='Control flow'/>
+        <page name='Functions'/>
+        <page name='Optionals'/>
+        <page name='Enumerations'/>
+        <page name='Structs'/>
+        <page name='Classes'/>
+        <page name='Properties'/>
+        <page name='Polymorphism'/>
+    </pages>
+</playground>
